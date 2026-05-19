@@ -8,7 +8,7 @@ import streamlit as st
 
 st.markdown("*Hasan zaki* is **really** ***kalcer***.")
 st.markdown('''
-    :red[hasan] :orange[can] :green[write] :blue[text] :violet[in]
+    :red[minang] :orange[can] :green[rules] :blue[the] :violet[world]
     :gray[pretty] :rainbow[colors] and :blue-background[highlight] text.''')
 st.markdown("Here's a bouquet &mdash;\
             :tulip::cherry_blossom::rose::hibiscus::sunflower::blossom:")
